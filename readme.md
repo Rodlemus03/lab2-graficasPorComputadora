@@ -1,0 +1,1 @@
+![Link del gif](https://github.com/Rodlemus03/lab2-graficasPorComputadora/blob/master/video/gif.gif)
